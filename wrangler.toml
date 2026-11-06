@@ -1,0 +1,11 @@
+name = "adwmxs"
+main = "worker.js"
+compatibility_date = "2026-11-06"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "adwmx"
+database_id = "367162b1-3028-47eb-9128-2f78aeec707a"
+
+[vars]
+DEBUG = "false"
